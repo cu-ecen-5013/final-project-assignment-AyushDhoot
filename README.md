@@ -2,6 +2,6 @@
 
 **Team Members: Ayush Dhoot and Shubham Jaiswal**
 
-**Project Overview:**
+**[Project Overview](https://github.com/cu-ecen-5013/final-project-assignment-AyushDhoot/wiki/Project-Overview)**
 
-**Schedule:**
+**[Schedule](https://github.com/cu-ecen-5013/final-project-assignment-AyushDhoot/wiki/Schedule)**
