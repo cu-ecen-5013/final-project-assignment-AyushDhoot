@@ -12,7 +12,7 @@ AESD_ASSIGNMENTS_SITE_METHOD = git
 
 
 define AESD_ASSIGNMENTS_BUILD_CMDS
-	$(MAKE) $(TARGET_CONFIGURE_OPTS) -C $(@D) all
+	$(MAKE) $(TARGET_CONFIGURE_OPTS) -C $(@D)/client-socket all
 endef
 
 #TODO: Add required executables or scripts below
