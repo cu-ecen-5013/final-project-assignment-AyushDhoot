@@ -1,5 +1,7 @@
-# Overview
+**Final Project Repo for ECEN 5013-002 Advanced Embedded Software Development**
 
-This repository contains assignment starter code for buildroot based assignments for the course Advanced Embedded Software Design, ECEN 5013
+**Team Members: Ayush Dhoot and Shubham Jaiswal**
 
-It also contains instructions related to modifying your buildroot project to use with supported hardware platforms.  See [this wiki page](https://github.com/cu-ecen-5013/buildroot-assignments-base/wiki/Supported-Hardware) for details.
+**[Project Overview](https://github.com/cu-ecen-5013/final-project-assignment-AyushDhoot/wiki/Project-Overview)**
+
+**[Schedule](https://github.com/cu-ecen-5013/final-project-assignment-AyushDhoot/wiki/Schedule)**
