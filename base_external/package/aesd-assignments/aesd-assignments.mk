@@ -6,7 +6,7 @@
 ##############################################################
 
 #TODO: Fill up the contents below in order to reference your assignment 3 git contents
-AESD_ASSIGNMENTS_VERSION = 0059e75d121c99444c4894aeb854d36e3bc088ca
+AESD_ASSIGNMENTS_VERSION = fa3a173dbeeeec465d14947cca079bd58d5987b6
 AESD_ASSIGNMENTS_SITE = git@github.com:cu-ecen-5013/final-project-assignment-shubjais.git
 AESD_ASSIGNMENTS_SITE_METHOD = git
 AESD_ASSIGNMENTS_LDFLAGS=$(LDFLAGS_FOR_BUILD) -lpthread -lrt
