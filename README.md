@@ -8,5 +8,5 @@
 
 
 # Source Code Organization
-* Buildroot Repository will be hosted at https://github.com/cu-ecen-5013/final-project-assignment-AyushDhoot
-* Application/utility source code will be hosted in a repository at https://github.com/cu-ecen-5013/final-project-assignment-shubjais
+* Buildroot Repository hosted at https://github.com/cu-ecen-5013/final-project-assignment-AyushDhoot
+* Application/utility source code hosted at https://github.com/cu-ecen-5013/final-project-assignment-shubjais
